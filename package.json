@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-cryptocurrency-2",
+  "version": "1.0.0",
+  "description": "Cryptocurrency bitcoin similar on node",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git+https://github.com/marcosrachid/blockchain-cryptocurrency-2.git",
+  "author": "Marcos Rachid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosrachid/blockchain-cryptocurrency-2/issues"
+  },
+  "homepage": "https://github.com/marcosrachid/blockchain-cryptocurrency-2#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
